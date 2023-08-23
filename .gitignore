@@ -1,3 +1,4 @@
 .name
 logs/*.log
 !logs/sample.log
+*.log
